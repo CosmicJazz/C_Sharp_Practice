@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WVAOi89tqNGlCoogjtcQ6fTJvH9JxhaL78+gMqpFMTUmlDIZ+8xhlTCl1+Pzl1PvdILmbu6b/d3/R+o+2TeWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devan\\Google Drive\\Programming\\C#\\CSharpTutorial\\CSharpTutorial\\CSharpTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Devan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
