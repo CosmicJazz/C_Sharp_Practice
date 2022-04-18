@@ -1,0 +1,13 @@
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.exe
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.dll
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\bin\Debug\netcoreapp3.1\Challenge_Loops_1_Average.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.csprojAssemblyReference.cache
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.dll
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Challenge_Loops_1_Average\obj\Debug\netcoreapp3.1\Challenge_Loops_1_Average.genruntimeconfig.cache
