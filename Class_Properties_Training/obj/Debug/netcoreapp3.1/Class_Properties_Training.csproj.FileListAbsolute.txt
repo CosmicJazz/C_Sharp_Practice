@@ -1,0 +1,13 @@
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.exe
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.dll
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\bin\Debug\netcoreapp3.1\Class_Properties_Training.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.csprojAssemblyReference.cache
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.dll
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Class_Properties_Training\obj\Debug\netcoreapp3.1\Class_Properties_Training.genruntimeconfig.cache

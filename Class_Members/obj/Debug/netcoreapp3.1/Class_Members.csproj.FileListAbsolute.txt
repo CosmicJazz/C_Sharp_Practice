@@ -1,0 +1,13 @@
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.exe
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.deps.json
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.runtimeconfig.json
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.runtimeconfig.dev.json
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.dll
+C:\Users\Devan\source\repos\Class_Members\bin\Debug\netcoreapp3.1\Class_Members.pdb
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.csprojAssemblyReference.cache
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.AssemblyInfoInputs.cache
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.AssemblyInfo.cs
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.csproj.CoreCompileInputs.cache
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.dll
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.pdb
+C:\Users\Devan\source\repos\Class_Members\obj\Debug\netcoreapp3.1\Class_Members.genruntimeconfig.cache
