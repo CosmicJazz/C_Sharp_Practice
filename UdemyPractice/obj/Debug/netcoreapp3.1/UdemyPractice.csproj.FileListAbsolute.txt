@@ -1,0 +1,13 @@
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.exe
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\bin\Debug\netcoreapp3.1\UdemyPractice.pdb
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.csprojAssemblyReference.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.pdb
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\obj\Debug\netcoreapp3.1\UdemyPractice.genruntimeconfig.cache
