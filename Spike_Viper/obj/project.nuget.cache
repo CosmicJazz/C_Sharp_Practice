@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tl++BBn8m9/xAp9MCjWIrX57PVvScqcR1iyFlcdyjdf6ALWBXWUkOJ1cPwdB68GN82Az13QlrhAt4jk30mQcVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devan\\source\\repos\\Spike_Viper\\Spike_Viper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

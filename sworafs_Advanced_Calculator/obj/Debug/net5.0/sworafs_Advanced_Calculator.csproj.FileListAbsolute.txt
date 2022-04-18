@@ -1,0 +1,16 @@
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.exe
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.dll
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\ref\sworafs_Advanced_Calculator.dll
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\bin\Debug\net5.0\sworafs_Advanced_Calculator.pdb
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.dll
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\ref\sworafs_Advanced_Calculator.dll
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.pdb
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.genruntimeconfig.cache
+C:\Users\Devan\Google Drive\Programming\C#\sworafs_Advanced_Calculator\obj\Debug\net5.0\sworafs_Advanced_Calculator.csproj.AssemblyReference.cache

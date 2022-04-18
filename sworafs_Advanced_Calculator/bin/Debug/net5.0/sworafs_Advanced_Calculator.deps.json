@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sworafs_Advanced_Calculator/1.0.0": {
+        "runtime": {
+          "sworafs_Advanced_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sworafs_Advanced_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

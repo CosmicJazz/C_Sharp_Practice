@@ -1,0 +1,13 @@
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.exe
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.deps.json
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.runtimeconfig.json
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.runtimeconfig.dev.json
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.dll
+C:\Users\Devan\source\repos\Spike_Viper\bin\Debug\netcoreapp3.1\Spike_Viper.pdb
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.csproj.AssemblyReference.cache
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.AssemblyInfoInputs.cache
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.AssemblyInfo.cs
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.csproj.CoreCompileInputs.cache
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.dll
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.pdb
+C:\Users\Devan\source\repos\Spike_Viper\obj\Debug\netcoreapp3.1\Spike_Viper.genruntimeconfig.cache
