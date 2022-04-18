@@ -1,0 +1,16 @@
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.exe
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\ref\Stacks_and_Queues.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\bin\Debug\net5.0\Stacks_and_Queues.pdb
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.csproj.AssemblyReference.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\ref\Stacks_and_Queues.dll
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.pdb
+C:\Users\Devan\Google Drive\Programming\C#\UdemyPractice\Stacks_and_Queues\obj\Debug\net5.0\Stacks_and_Queues.genruntimeconfig.cache
