@@ -1,0 +1,13 @@
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.exe
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.deps.json
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.runtimeconfig.json
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.runtimeconfig.dev.json
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.dll
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\bin\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.csprojAssemblyReference.cache
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.AssemblyInfoInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.AssemblyInfo.cs
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.dll
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.pdb
+C:\Users\Devan\Google Drive\Programming\C#\Foreach_Loops_and_Switch_Statement_Challenge\obj\Debug\netcoreapp3.1\Foreach_Loops_and_Switch_Statement_Challenge.genruntimeconfig.cache

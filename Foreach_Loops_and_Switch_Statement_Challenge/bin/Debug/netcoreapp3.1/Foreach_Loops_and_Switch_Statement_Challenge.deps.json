@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Foreach_Loops_and_Switch_Statement_Challenge/1.0.0": {
+        "runtime": {
+          "Foreach_Loops_and_Switch_Statement_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foreach_Loops_and_Switch_Statement_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
